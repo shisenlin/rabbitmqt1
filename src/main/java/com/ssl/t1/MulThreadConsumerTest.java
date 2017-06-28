@@ -57,7 +57,7 @@ public class MulThreadConsumerTest {
     }
 
 
-//多线程测试
+//多线程测试啊
 
     @Test
     public void testMulThread() throws Throwable {
